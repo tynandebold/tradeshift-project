@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/index.css"],"names":[],"mappings":"AAAA,KACE,SACA,UACA,sBAAwB,CAG1B,0BACE,cACA,eAAiB","file":"static/css/main.760d6b08.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  font-family: sans-serif;\n}\n\n.ts-maincontent.ts-spirit {\n  margin: 0 auto;\n  max-width: 400px;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/css/index.css"],"sourceRoot":""}
